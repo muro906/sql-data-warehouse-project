@@ -1,11 +1,11 @@
 # Data Warehouse and Analytics Project
 
-Welcome to **Data Warehouse and Analytics Project** repository! ![image](https://github.com/user-attachments/assets/cd16fce3-c367-4c33-adda-6f10c127ca61)
+Welcome to **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project that highlights industry best practices in data engineering and analytics.
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/192ea91c-5fa1-4b7f-abb8-025e29b85a29){:height="36px" width="36px"} Project Requirements
+## 🚀 Project Requirements
 
 ### Building the Data warehouse (Data Engineering)
 
@@ -33,10 +33,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/92267b00-6472-4792-b414-fdca579254fb) License
+## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## ![Uploading image.png…]() About me 
+## ☀️ About me 
 
 Hi there! I'm *Millicent Maina*. 
