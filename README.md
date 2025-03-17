@@ -33,12 +33,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/92267b00-6472-4792-b414-fdca579254fb)
- License
+## ![image](https://github.com/user-attachments/assets/92267b00-6472-4792-b414-fdca579254fb) License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## ![Uploading image.png…]()
-About me 
+## ![Uploading image.png…]() About me 
 
 Hi there! I'm *Millicent Maina*. 
